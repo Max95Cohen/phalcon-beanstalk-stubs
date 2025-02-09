@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/beanstalk-stubs",
+    "name": "max95cohen/phalcon-beanstalk-stubs",
     "type": "library",
     "description": "Phalcon Beanstalk queue stubs",
     "keywords": [
