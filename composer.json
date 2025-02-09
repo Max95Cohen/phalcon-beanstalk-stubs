@@ -1,0 +1,39 @@
+{
+    "name": "phalcon/beanstalk-stubs",
+    "type": "library",
+    "description": "Phalcon Beanstalk queue stubs",
+    "keywords": [
+        "Phalcon",
+        "DevTools",
+        "Stubs",
+        "Queue",
+        "Beanstalk",
+        "autocomplete"
+    ],
+    "homepage": "https://phalconphp.com",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Max_Cohen",
+            "email": "21256286+Max95Cohen@users.noreply.github.com",
+            "homepage": "https://max95cohen.github.com"
+        },
+        {
+            "name": "Phalcon Team",
+            "email": "team@phalconphp.com",
+            "homepage": "https://phalconphp.com/en/team"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/phalcon/ide-stubs/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/phalcon/ide-stubs/issues",
+        "source": "https://github.com/phalcon/ide-stubs",
+        "forum": "https://forum.phalconphp.com/"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
